@@ -20,9 +20,9 @@ app = Flask(__name__)
 
 # Enter your database connection details below
 app.config['MYSQL_HOST'] = 'localhost'
-app.config['MYSQL_USER'] = 'shareuri_root'
-app.config['MYSQL_PASSWORD'] = '.j9o=pSFyV8N'
-app.config['MYSQL_DB'] = 'shareuri_taxiApp'
+app.config['MYSQL_USER'] = 'labjes_demo'
+app.config['MYSQL_PASSWORD'] = 'Adam@2341'
+app.config['MYSQL_DB'] = 'labjes_taxiApp'
 
 # Intialize MySQL
 mysql = MySQL(app)
