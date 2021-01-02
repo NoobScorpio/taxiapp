@@ -1,0 +1,11 @@
+flask 
+json
+datetime
+pypyodbc
+flask_mysqldb
+MySQLdb
+re
+math
+pandas
+requests
+time
